@@ -27,11 +27,11 @@
 #### 透過 Git 指令安裝：
 - **Windows (PowerShell)**:
   ```powershell
-  git clone https://github.com/geniefu/jhsh-english-exam-generator.git "$HOME\.gemini\config\skills\jhsh-english-exam-generator"
+  git clone https://github.com/sluskey/jhsh-english-exam-generator.git "$HOME\.gemini\config\skills\jhsh-english-exam-generator"
   ```
 - **macOS / Linux**:
   ```bash
-  git clone https://github.com/geniefu/jhsh-english-exam-generator.git ~/.gemini/config/skills/jhsh-english-exam-generator
+  git clone https://github.com/sluskey/jhsh-english-exam-generator.git ~/.gemini/config/skills/jhsh-english-exam-generator
   ```
 
 #### 手動複製安裝：
